@@ -5,7 +5,7 @@ const { Routes } = require("discord-api-types/v9")
 const fs = require("fs")
 const { Player } = require("discord-player")
 
-const TOKEN = "OTUzNzAwMDcwMjg3NjA5OTE2.YjIYZw.fLRXpjStNMbxvnXDSa0zHAXJg4A"
+const TOKEN = "OTUzNzAwMDcwMjg3NjA5OTE2.YjIYZw.u6nbhqd0yk5Xbe7IDkWHo0q_dXI"
  
 dotenv.config()
 
